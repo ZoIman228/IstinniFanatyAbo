@@ -14,3 +14,25 @@ header h1 {
   font-family: monospace;
   font-size: 50px;
 }
+
+#cart {
+  background-color: lightpink;
+  color: darkred;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+}
+
+#cart p {
+  margin: 100px;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+footer {
+  background-color: darkred;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-family: monospace;
+}
