@@ -22,5 +22,5 @@ xhr.onload = function() {
             `;
         productsGrid.append(pElem);
     });
-    xhr.send
+    xhr.send()
 }
