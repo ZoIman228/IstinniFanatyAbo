@@ -71,3 +71,7 @@ function drawCartProducts(){
         sum +=p.price
     })
 }
+
+function openCart(){
+    cartProd.classList.toggle("hide")
+}
